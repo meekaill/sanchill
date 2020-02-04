@@ -1,12 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/211_TVM_HD-01.png", PSM NEWS HD
+#EXTINF:-1 group-title="Maldives" "PSM NEWS HD
 http://203.104.29.53/live/1000000/10000020/master.m3u8
-#EXTINF:-2 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/98_VTV-01.png", VTV HD
+#EXTINF:-2 group-title="Maldives"" VTV HD
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
-#EXTINF:-3 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/196_Yes_TV-01.png", Sangu tv HD
+#EXTINF:-3 group-title="Maldives" tvg-logo=""Sangu tv HD
 http://203.104.29.53/live/1000000/10000024/master.m3u8
-#EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",raajje tv HD
+#EXTINF:-4 group-title=""Raajje tv HD
 http://raajjetv.myvnc.com/live/1000/10005/master.m3u8
+#EXTINF:-4 group-title=""Channel 13 HD
+http://203.104.29.53/live/1000000/10000022/master.m3u8
+#EXTINF:-4 group-title=""Sky CHannel HD
+http://203.104.29.53/live/1007/10079/master.m3u8
 
 
 
