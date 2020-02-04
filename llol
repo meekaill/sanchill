@@ -7,7 +7,7 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 http://203.104.29.53/live/1000000/10000024/master.m3u8
 #EXTINF:-4 group-title=" ",Raajje tv HD
 http://raajjetv.myvnc.com/live/1000/10005/master.m3u8
-#EXTINF:-4 group-title=" ",Channel 13 HD
+#EXTINF:-4 group-title="https://medianet.mv/media/channel-8x1-icon.png",Channel 13 HD
 http://203.104.29.53/live/1000000/10000022/master.m3u8
 #EXTINF:-4 group-title=" ",Sky CHannel HD
 http://203.104.29.53/live/1007/10079/master.m3u8
