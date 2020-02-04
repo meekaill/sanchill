@@ -6,8 +6,7 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:-3 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/196_Yes_TV-01.png", YES TV HD
 ttps://edge1.psmconnect.mv////channels/live/yestvwl72jjmwwh-3-3/video_2/yestv-3-178883.mp4
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",raajje tv HD
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/zpDC4FVZXsZlrMumeTTNCNSOIcZmvjICw0x_FCzhVdZWaqMf5MkWPwCitT2ORT46QYAd4Ue7fitkF0OMggs9_g/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJIZWlnaHQiOjQ4MCwiS2JwcyI6MTAwMCwiV2lkdGgiOjg0OH0.RFzmPpRYVt-M5xPGoWoifZwAR5Wj0QbokQ2FVsxVt9c/dynamic_highlatency.m3u8?type=live
-
+http://raajjetv.myvnc.com/live/1000/10005/master.m3u8
 
 
 
