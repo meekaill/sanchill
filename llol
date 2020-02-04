@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/211_TVM_HD-01.png", Dhivehi channel HD
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/2ymtTCabBSDGHktmJo0JSLZsGJoRfUK7PzRkaytzLuHFRkMBD-04nDdCgk_O7eIkJIH8REgPq1mL1b6ZaylDKA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJIZWlnaHQiOjQ4MCwiS2JwcyI6MTAwMCwiV2lkdGgiOjg0OH0.RFzmPpRYVt-M5xPGoWoifZwAR5Wj0QbokQ2FVsxVt9c/chunk_1580828520032853077_115_a.ts
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/7WTV1f8KmlvS6D9PvMnfZlZblmBEvvDewU6ZZdhkuFKdJnktuD8mwx_iFQbpacHw2wLc7ngG82QKZENKGowibA/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_16865912814439740730.m3u8?type=replay
 #EXTINF:-2 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/98_VTV-01.png", VTV HD
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:-3 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/196_Yes_TV-01.png", YES TV HD
