@@ -14,26 +14,40 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 
 
 
-#EXTINF:-4 group-title="HINDI MOVIES" tvg-logo=" ",kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1701.png",Sony Ent. TV Asia
-http://skdn.redi-vo.com/iptv/ch1701?code=103131497823984&key=17324
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="HINDI MOVIES",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HINDI MOVIES",Boogle Bollywood
-http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="music",SHEMAROO HINDI
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1753.png",Zee Classic
-http://skdn.redi-vo.com/iptv/ch1753?code=103131497823984&key=44351
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Sony HD
+http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Colors
+http://fr-c.movply.stream/hls/Colors.m3u8
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Star bahraath
+http://jiocdn.fun/hot/track_lineXxxxs.php?c=starbharat&e=.m3u8
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Zee TV
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",B4u Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Dilse
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Mastiii
+http://streamidvo.multitvsolution.in/live/Mastiii-f/p4.m3u8
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",WION
+http://89.163.255.249:8554/selen/wion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDM6MDk6MTMgUE0maGFzaF92YWx1ZT1GdC9wNGRqQlhDTzVyNktGbWtkYTN3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Zee Classic
+http://zolo.ktk.si:7623/eros/zeeclassic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDM6MTM6MjUgUE0maGFzaF92YWx1ZT1XVjBsMm42bDA0emF1eCt4ZkRMZC93PT0mdmFsaWRtaW51dGVzPTI=
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENGLISH",Edge
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1280x720_2890800/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENGLISH",CNN HD
-http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENGLISH",Aljazeera HD
-https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Euro Sports
-http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:-4 group-title="NEWS" tvg-logo=" ",BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+#EXTINF:-4 group-title="NEWS" tvg-logo=" ",Aljazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-4 group-title="NEWS" tvg-logo=" ",Nat GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
+
+#EXTINF:-4 group-title="Sports" tvg-logo=" ",Bein HD 1
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-4 group-title="Sports" tvg-logo=" ",Star S 1
+http://109.169.56.170/hls/starsportsselect2.m3u8
+
+#EXTINF:-4 group-title="Sports" tvg-logo=" ",neyge
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/out/index.m3u8
+
+
