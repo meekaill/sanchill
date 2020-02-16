@@ -31,8 +31,7 @@ http://streamidvo.multitvsolution.in/live/Mastiii-f/p4.m3u8
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",WION
 http://89.163.255.249:8554/selen/wion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDM6MDk6MTMgUE0maGFzaF92YWx1ZT1GdC9wNGRqQlhDTzVyNktGbWtkYTN3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Zee Classic
-http://zolo.ktk.si:7623/eros/zeeclassic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDM6MTM6MjUgUE0maGFzaF92YWx1ZT1XVjBsMm42bDA0emF1eCt4ZkRMZC93PT0mdmFsaWRtaW51dGVzPTI=
-
+http://217.23.0.160:44560/2c7ab4d6/ch1753?code=138137164006399&country=MV&token=1834030e&key=9c4e07fc
 
 
 #EXTINF:-4 group-title="NEWS" tvg-logo=" ",BBC
