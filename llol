@@ -28,10 +28,10 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Mastiii
 http://streamidvo.multitvsolution.in/live/Mastiii-f/p4.m3u8
-#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",WION
-http://89.163.255.249:8554/selen/wion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDM6MDk6MTMgUE0maGFzaF92YWx1ZT1GdC9wNGRqQlhDTzVyNktGbWtkYTN3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",=wion
+http://185.63.254.79:4747/south2019/wiontv/chunks.m3u8?nimblesessionid=43890128&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6NDc6NDIgQU0maGFzaF92YWx1ZT1qMG42U1YwOVd6LzB1ZGorck5kWVV3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Zee Classic
-http://217.23.0.160:44560/2c7ab4d6/ch1753?code=138137164006399&country=MV&token=1834030e&key=9c4e07fc
+
 
 
 #EXTINF:-4 group-title="NEWS" tvg-logo=" ",BBC
