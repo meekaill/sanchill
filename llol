@@ -45,7 +45,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
 http://217.23.0.160:61736/2c7ab4d6/ch937?code=138137164006399&country=MV&token=1834030e&key=94f407d3
 #EXTINF:-4 group-title="Sports" tvg-logo=" ",Sky football
 http://217.23.0.160:61736/2c7ab4d6/ch922?code=138137164006399&country=MV&token=1834030e&key=947507cd
-
-#EXTINF:-4 group-title="NEWS" tvg-logo=" ",CNN HD
-http://185.8.178.69:13843/2c7ab4d6/ch1898?code=138137164006399&country=MV&token=1834030e&key=a0d80825
+#EXTINF:-4 group-title="Sports" tvg-logo=" ",bein HD
+http://185.21.61.102:56146/2c7ab4d6/ch5134?code=138137164006399&country=MV&token=1834030e&key=a42e0831
 
