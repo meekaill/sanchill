@@ -28,7 +28,7 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Mastiii
 http://streamidvo.multitvsolution.in/live/Mastiii-f/p4.m3u8
-#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",=wion
+#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",wion
 http://185.63.254.79:4747/south2019/wiontv/chunks.m3u8?nimblesessionid=43890128&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6NDc6NDIgQU0maGFzaF92YWx1ZT1qMG42U1YwOVd6LzB1ZGorck5kWVV3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Zee Classic
 http://94.130.175.89:4545/ind2020/zeeclassic/chunks.m3u8?nimblesessionid=2121313&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDU6MTA6MjIgQU0maGFzaF92YWx1ZT1lVlhoUGtmTnRoK0w2TEI5SG4wQjRRPT0mdmFsaWRtaW51dGVzPTI=
