@@ -19,7 +19,7 @@ http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Colors
 http://94.130.175.89:4545/ind2020/colorshd/chunks.m3u8?nimblesessionid=2120135&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDU6MDA6MTUgQU0maGFzaF92YWx1ZT1TL2dyT3kwZ0lPUnRhTTJwUnJWdjNRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Star bahraath
-http://jiocdn.fun/hot/track_lineXxxxs.php?c=starbharat&e=.m3u8
+http://94.130.175.89:4545/ind2020/starbharathd/chunks.m3u8?nimblesessionid=2121029&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDU6MDc6NDggQU0maGFzaF92YWx1ZT1COUZQR203TVN3T2pUNGNmMVVoMzlBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Zee TV
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",B4u Music
@@ -31,7 +31,7 @@ http://streamidvo.multitvsolution.in/live/Mastiii-f/p4.m3u8
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",=wion
 http://185.63.254.79:4747/south2019/wiontv/chunks.m3u8?nimblesessionid=43890128&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6NDc6NDIgQU0maGFzaF92YWx1ZT1qMG42U1YwOVd6LzB1ZGorck5kWVV3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Zee Classic
-
+http://94.130.175.89:4545/ind2020/zeeclassic/chunks.m3u8?nimblesessionid=2121313&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDU6MTA6MjIgQU0maGFzaF92YWx1ZT1lVlhoUGtmTnRoK0w2TEI5SG4wQjRRPT0mdmFsaWRtaW51dGVzPTI=
 
 
 #EXTINF:-4 group-title="NEWS" tvg-logo=" ",BBC
