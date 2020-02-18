@@ -16,8 +16,8 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Sony HD
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Colors
-http://94.130.175.89:4545/ind2020/colorshd/chunks.m3u8?nimblesessionid=2120135&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDU6MDA6MTUgQU0maGFzaF92YWx1ZT1TL2dyT3kwZ0lPUnRhTTJwUnJWdjNRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-4 group-title="movies" tvg-logo=" ",my cinema
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Star bahraath
 http://94.130.175.89:4545/ind2020/starbharathd/chunks.m3u8?nimblesessionid=2121029&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDU6MDc6NDggQU0maGFzaF92YWx1ZT1COUZQR203TVN3T2pUNGNmMVVoMzlBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Zee TV
