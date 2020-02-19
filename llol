@@ -30,7 +30,7 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 http://streamidvo.multitvsolution.in/live/Mastiii-f/p4.m3u8
 #EXTINF:-4 group-title="INDIAN" tvg-logo=" ",wion
 http://185.63.254.79:4747/south2019/wiontv/chunks.m3u8?nimblesessionid=43890128&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDQ6NDc6NDIgQU0maGFzaF92YWx1ZT1qMG42U1YwOVd6LzB1ZGorck5kWVV3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-4 group-title="INDIAN" tvg-logo=" ",Zee Classic
+#EXTINF:-1,IN: Zee Classic
 http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/34027.ts
 #EXTINF:-4 group-title="NEWS" tvg-logo=" ",BBC
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
