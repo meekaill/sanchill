@@ -11,6 +11,8 @@ http://raajjetv.myvnc.com/live/1000/10005/master.m3u8
 http://203.104.29.53/live/1000000/10000022/master.m3u8
 #EXTINF:-4 group-title="Maldives",Sky CHannel HD
 http://203.104.29.53/live/1007/10079/master.m3u8
+#EXTINF:-4 group-title="Maldives",Wion HD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 
 
 
